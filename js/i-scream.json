@@ -12,7 +12,7 @@
             "Peppermint Sprinkle",
             "Vanilla Base"
         ],
-        "image": "https://priyansht.github.io/23F-JavaScript-02-Week11/images/chocolate-mint.svg"
+        "image": "https://vinniechachra.github.io/Lab-4/images/chocolate-mint.svg"
     }, {
         "name": "Peach Mango",
         "calories": 350,
@@ -22,7 +22,7 @@
             "Mango Chunks",
             "Vanilla Base"
         ],
-        "image": "https://priyansht.github.io/23F-JavaScript-02-Week11/images/peach-mango.svg"
+        "image": "https://vinniechachra.github.io/Lab-4/images/peach-mango.svg"
     }, {
         "name": "Strawberry Sprinkle",
         "calories": 400,
@@ -32,7 +32,7 @@
             "Some Sprinkles",
             "Vanilla Base"
         ],
-        "image": "https://priyansht.github.io/23F-JavaScript-02-Week11/images/strawberry-sprinkle.svg"
+        "image": "https://vinniechachra.github.io/Lab-4/strawberry-sprinkle.svg"
     },
     {
         "name": "Choco Almond Delight",
@@ -44,7 +44,7 @@
           "milk",
           "sugar"
         ],
-        "image": "images/ChocoAlmond.svg"
+        "image": "https://vinniechachra.github.io/Lab-4/images/ChocoAlmond.svg"
       },
       {
         "name": "Vanilla Blueberry Swirl",
@@ -56,7 +56,7 @@
           "cream",
           "sugar"
         ],
-        "image": "images/VanillaBlueberry.svg"
+        "image": "https://vinniechachra.github.io/Lab-4/images/VanillaBlueberry.svg"
       }
     ]
 
