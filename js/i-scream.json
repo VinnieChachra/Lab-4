@@ -1,0 +1,63 @@
+{
+    "companyName": "I-Scream Company Inc.",
+    "headOffice": "North Pole",
+    "established": 2023,
+    "active": true,
+    "topFlavors": [{
+        "name": "Chocolate Mint",
+        "calories": 300,
+        "type": "ice-cream",
+        "ingredients": [
+            "Chocolate Syrup",
+            "Peppermint Sprinkle",
+            "Vanilla Base"
+        ],
+        "image": "https://priyansht.github.io/23F-JavaScript-02-Week11/images/chocolate-mint.svg"
+    }, {
+        "name": "Peach Mango",
+        "calories": 350,
+        "type": "milkshake-type ice-cream",
+        "ingredients": [
+            "Peach Syrup",
+            "Mango Chunks",
+            "Vanilla Base"
+        ],
+        "image": "https://priyansht.github.io/23F-JavaScript-02-Week11/images/peach-mango.svg"
+    }, {
+        "name": "Strawberry Sprinkle",
+        "calories": 400,
+        "type": "ice-cream",
+        "ingredients": [
+            "Strawberry Syrup",
+            "Some Sprinkles",
+            "Vanilla Base"
+        ],
+        "image": "https://priyansht.github.io/23F-JavaScript-02-Week11/images/strawberry-sprinkle.svg"
+    },
+    {
+        "name": "Choco Almond Delight",
+        "calories": 400,
+        "type": "ice cream",
+        "ingredients": [
+          "cocoa powder",
+          "almonds",
+          "milk",
+          "sugar"
+        ],
+        "image": "images/ChocoAlmond.svg"
+      },
+      {
+        "name": "Vanilla Blueberry Swirl",
+        "calories": 350,
+        "type": "ice cream",
+        "ingredients": [
+          "vanilla beans",
+          "blueberries",
+          "cream",
+          "sugar"
+        ],
+        "image": "images/VanillaBlueberry.svg"
+      }
+    ]
+
+}
